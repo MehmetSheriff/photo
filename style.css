@@ -1,0 +1,8 @@
+.conteiner {
+  background: rgb(12, 12, 68);
+  width: 100px;
+}
+.text-1 {
+  border: 2px solid red;
+  width: 100%;
+}
